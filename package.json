@@ -1,7 +1,7 @@
 {
-  "name": "npm-es6-generators-starter",
+  "name": "es6-npm-package",
   "version": "0.1.0",
-  "description": "Start developing a NPM module with ES6 generators support quickly! The module will be published as an ES5 module, for backwards compatibility.",
+  "description": "An ES6 npm module boilerplate which will transpile to ES5 when publishing.  Start coding and stop worrying!",
   "main": "dist/main.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --require co-mocha",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jcharrell/npm-es6-generators-starter.git"
+    "url": "https://github.com/jcharrell/es6-npm-package.git"
   },
   "keywords": [
     "npm",
